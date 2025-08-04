@@ -62,3 +62,14 @@ A **Virtus Technology** é uma startup com foco em transformar conexões humanas
 git clone https://github.com/CarolineSantoss/nome-do-repositorio.git
 cd nome-do-repositorio
 # Clique duas vezes no arquivo index.html ou abra no navegador
+
+---
+
+📞 Contato
+Entre em contato comigo:
+
+📧 Email: carolinecastilho81@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/caroline-santos-1a38aa20a/
+
+🐙 GitHub: github.com/CarolineSantoss
