@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* Header */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Libertinus Serif", serif;
+    
+   
+}
+
+header {    
+    background-color: #100d28;
+    height: 85px auto;
+    margin: 0;
+
+}
+
+.container-logo {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+span {
+    color: #fff;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 600;
+
+}
+
+.text-logo {
+    color: #c2357d;
+    }
+
+
+/* Conteudo */
+
+.section-container {
+    background-color: #100d28;
+    border-bottom: 1px solid #ccc;
+   
+}
+
+.container-conteudo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-principal {
+    padding-left: 50px;
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.btn {
+    background: linear-gradient(145deg, #c2357d, #a246d8,#120c96 );
+    padding: 15px;
+    margin-top: 55px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    opacity: 0.85;
+    color: #ccc;
+    transform: scale(1.05);
+}
+
+.container-img1 {
+    justify-content: center;
+    align-items: center;
+    padding-right: 150px;
+    padding-bottom: 45px;
+}
+
+.img-projeto1 {
+    border-radius: 40px ; 
+  
+}
+
+.img-projeto1:hover{
+     transform: scale(1.05);
+     cursor: pointer;
+}
+
+.conteudo-virtus {
+    background:#100d28 ;
+    padding-top: 0;
+    margin-top: 0;
+    height: 700px;
+    border-bottom: 1px solid #ccc;
+}
+
+.text-virtus1 {
+    color: #fff;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 90px;
+    font-weight: 600;
+}
+
+.text-virtus{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    
+}
+
+.text-color{
+    font-size: 70px;
+    color: #9206e6;
+    font-weight: bold;
+    
+}
+
+.text-color1{
+    font-size: 25px;
+    color: #9206e6;
+    
+}
+
+.conteudo-conectar {
+    height: 750px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+}
+
+.paragrafo-conectar {
+    font-size: 70px;
+    color: #9340ff;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.text-conectar {
+    color: #fff;
+    padding-right: 30px;
+    padding-left: 100px;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.text-conectar2 {
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 100px;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+
+.img-conectar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 150px; 
+    
+}
+
+.img-conectar1 {
+    border-radius: 40px;
+}
+
+.img-conectar1:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.conteudo-contato {
+    height: 700px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 80px;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+}
+
+.img-contato {
+   border-radius: 40px;
+}
+
+.img-contato:hover {
+     transform: scale(1.05);
+     cursor: pointer;
+}
+
+
+.mantenha-contato {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-right: 150px; 
+    
+}
+
+.base-social {
+    height: 650px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 80px;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+}
+
+.base-social {
+    height: 700px;
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.container-social2 {
+    padding-top: 70px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-right: 150px;
+
+}
+
+.img-social {
+    border-radius: 40px;
+}
+
+.img-social:hover {
+    transform: scale(1.05);
+     cursor: pointer;
+}
+
+.contact {
+    font-size: 70px;
+    color: #9340ff;
+}
+
+footer {
+    height: 400px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.img-footer{
+    padding-top: 50px;
+    }
+
+.footer-text {
+    display: flex;
+}
+
+.container-footer {
+    padding-bottom: 70px;
+    padding-right: 200px; 
+   
+}
+
+address {
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 1px;
+   
+}
+
+@media (max-width: 1000px) {
+  .container-conteudo,
+  .conteudo-conectar,
+  .conteudo-contato,
+  .base-social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    padding: 40px 20px;
+  }
+
+  .container-texto,
+  .mantenha-contato,
+  .container-conectar,
+  .container-social {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 10px;
+  }
+
+  .text-principal,
+  .text-virtus1,
+  .paragrafo-conectar,
+  .contact {
+    font-size: 34px;
+    padding: 0;
+  }
+
+  .text-conectar,
+  .text-conectar2,
+  .text-virtus {
+    font-size: 18px;
+    padding: 0;
+  }
+
+  .btn {
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 12px 24px;
+  }
+
+  .container-img1,
+  .img-conectar,
+  .container-contato,
+  .container-social2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+  .img-projeto1,
+  .img-conectar1,
+  .img-contato,
+  .img-social {
+    width: 90%;
+    max-width: 360px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    padding: 40px 20px;
+  }
+
+  .container-footer {
+    padding: 0;
+  }
+
+  .img-footer {
+    width: 120px;
+  }
+
+  address {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .text-principal,
+  .text-virtus1,
+  .paragrafo-conectar,
+  .contact {
+    font-size: 26px;
+  }
+
+  .text-conectar,
+  .text-conectar2,
+  .text-virtus {
+    font-size: 16px;
+  }
+
+  .btn {
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+
+  .img-footer {
+    width: 100px;
+  }
+
+  address {
+    font-size: 14px;
+  }
+}
