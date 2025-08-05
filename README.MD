@@ -68,8 +68,9 @@ cd nome-do-repositorio
 📞 Contato
 Entre em contato comigo:
 
+📞 Telefone: (11) 96596-5168
+
 📧 Email: carolinecastilho81@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/caroline-santos-1a38aa20a/
 
-🐙 GitHub: github.com/CarolineSantoss
